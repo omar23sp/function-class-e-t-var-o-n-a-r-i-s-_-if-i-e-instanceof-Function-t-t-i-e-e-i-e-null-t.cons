@@ -1,0 +1,1 @@
+# function-class-e-t-var-o-n-a-r-i-s-_-if-i-e-instanceof-Function-t-t-i-e-e-i-e-null-t.cons
